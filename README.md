@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
+
 # CMINING
 
 **Cryptocurrency mining management platform.**
